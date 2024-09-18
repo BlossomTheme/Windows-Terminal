@@ -1,0 +1,31 @@
+"schemes": 
+    [
+        {
+            "name": "Blossom",
+            "background": "#10111B",
+            "foreground": "#FF058D",
+            "black": "#0C0C0C",
+            "blue": "#01C8FF",
+            "brightBlack": "#767676",
+            "brightBlue": "#0187FF",
+            "brightCyan": "#76FFF9",
+            "brightGreen": "#00FF7D",
+            "brightPurple": "#8700D9",
+            "brightRed": "#B80034",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#FCDD42",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#A0FEFF",
+            "green": "#55FF55",
+            "purple": "#A500FF",
+            "red": "#F70047",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#FFFF55"
+        }
+    ]
+
+"profiles": {
+"defaults": {
+    "colorScheme" : "Dracula"
+}
